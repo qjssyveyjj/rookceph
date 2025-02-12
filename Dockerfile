@@ -1,1 +1,1 @@
-FROM rook/ceph:v1.6.3
+FROM docker.io/rook/ceph:v1.15.8
